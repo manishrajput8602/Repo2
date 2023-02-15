@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 0695-0DCC
-
- Directory of C:\Users\mr853\OneDrive\Desktop\MyProject
-
-15-02-2023  10:20    <DIR>          .
-15-02-2023  10:18    <DIR>          ..
-15-02-2023  10:20                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  189,986,951,168 bytes free
+change 1
